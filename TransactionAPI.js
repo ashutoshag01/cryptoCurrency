@@ -1,8 +1,8 @@
 import Web3 from 'web3'
 const Tx = require(`ethereumjs-tx`)
 
-const companyAddress = `Add Your Own/Website/Company Address`
-const pk = `Add Your Own/Website/Company Private Key`
+const companyAddress = `Add Your Own/Website/Company Wallet public Address`
+const pk = `Add Your Own/Website/Company Wallet Private Key`
 
 const infuraUrl = `Create A Url from Infura`
 
